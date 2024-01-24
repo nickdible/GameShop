@@ -1,0 +1,24 @@
+#banner {
+    background-color: red;
+    text-align: center;
+    
+}
+header {
+    background-image: url(bannerPhoto.jpg);
+    background-repeat:no-repeat; /* Do not repeat the image */
+    color: lightblue;
+    background-size: cover; /* Resize the background image to cover the entire container */
+    /*Comments: You may use your own image from local. Go to W3schools : CSS : CSS Image-Sprites for
+    more image from CSS. (https://www.w3schools.com/css/css_image_sprites.asp ) You may use other
+    format like below: background-position:left-side; */
+    
+}
+#banner h1 {
+    color: white;
+}
+#banner h2.author {
+    color: white;
+}
+#banner p.homepage {
+    background-color:blue;
+}
